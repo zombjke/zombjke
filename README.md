@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zombJkee
 - 👀 I’m interested in EcmaScript x)
-- 🌱 I’m currently learning js & react & nodeJs & everything related to it xD
+- 🌱 I’m currently learning js & VueJs & nodeJs & everything related to it xD
 - 📫 How to reach me in Telegram? just find user @zombJkee ;)
 
 <!---
